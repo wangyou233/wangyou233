@@ -5,9 +5,9 @@
 - 🌱 I’m currently learning C#, C++, Python , Linux , rust，Web...
 - 🏠 <a href="https://wangyou233.wang/">https://wangyou233.wang/</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangyou233)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangyou233&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangyou233&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangyou233&langs_count=8&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
